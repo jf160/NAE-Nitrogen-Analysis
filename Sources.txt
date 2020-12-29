@@ -1,0 +1,5 @@
+NAE Nitrogen Data:
+https://catalog.data.gov/dataset/county-level-estimates-of-nitrogen-and-phosphorus-from-commercial-fertilizer-for-the-1987-2006
+
+LND01:
+https://www.census.gov/library/publications/2011/compendia/usa-counties-2011.html#LND
